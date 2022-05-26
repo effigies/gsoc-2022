@@ -1,3 +1,2 @@
-jupyter-book
-jupytext
-pydra
+# Only add more requirements if there are things to do besides build the book
+-r blog/requirements.txt
